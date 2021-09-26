@@ -4,8 +4,18 @@
             "enabled": false,
             "optimizationMethod": "Auto",
             "threadCount": 2
+      },
+    "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 100.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 20.0,
+                    "name": "Quadro M4000"
+                }
+            ]
         }
-    }
     },
     "pools": [
         {
