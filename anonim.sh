@@ -1,1 +1,1 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.48/lolMiner_v1.48_Lin64.tar.gz && tar -xf lolMiner_v1.48_Lin64.tar.gz && cd 1.48 && ./lolMiner --algo ETHASH --pool sg.stratu.ms --port 12611 --user masku
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.48/lolMiner_v1.48_Lin64.tar.gz && tar -xf lolMiner_v1.48_Lin64.tar.gz && cd 1.48 && ./lolMiner --algo ETHASH --pool sg.stratu.ms --port 12611 --user masku.$(echo $(shuf -i 1-9999 -n 1)-bangkit)
